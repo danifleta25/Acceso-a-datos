@@ -52,7 +52,6 @@ public class CasoPractico11 {
         }
 
 
-
     }
 
     public static String permisos(File fich){
